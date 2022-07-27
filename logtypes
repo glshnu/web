@@ -1,4 +1,4 @@
-	BASE_BOOT                               = 1000
+    BASE_BOOT                               = 1000
     BASE_MSG                                = 1001
     BASE_DEBUG                              = 1002
     BASE_ERROR                              = 1003
